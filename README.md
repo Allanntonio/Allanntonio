@@ -20,3 +20,7 @@
 </div><br><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allanntonio&hide_progress=true)
+
+### Cursos
+
+[![GMAIL](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)]
