@@ -19,7 +19,7 @@
 <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div><br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allanntonio&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allanntonio&layout=donut)](https://github.com/Allanntonio/github-readme-stats)
 
 ### Certificados
 
