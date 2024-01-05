@@ -21,6 +21,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allanntonio&hide_progress=true)
 
-### Cursos
+### Certificados
 
-[![GMAIL](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)]
+[![GMAIL](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/home/my-courses/learning/)
