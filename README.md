@@ -1,6 +1,8 @@
 ### Olá! Eu sou Allan Antonio 😄
 ### Apaixonado por Codificar, Inovar e Conquistar Novos desafios!
 
+<a href="https://drive.google.com/file/d/12DB80Dk_V_lRMfTg5CeqRaQ45eIPi50d/view?usp=sharing">Meu Curriculo</a>
+
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRCSjPnnwxKJGrPzZtMBJNkpcnQrzsJXsgWTWtPFjVjkNZlzRLvWXPThdWgfRpMZngtcQh)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531993515075)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-ant%C3%B4nio-562aa3262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
