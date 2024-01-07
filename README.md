@@ -1,4 +1,5 @@
-### Olá! Eu sou Allan Antonio 😄
+### Olá! Eu sou Allan Antonio 👋
+
 ### Fascinado por Codificar, Inovar e Conquistar Novos desafios!
 
 <a href="https://drive.google.com/file/d/12DB80Dk_V_lRMfTg5CeqRaQ45eIPi50d/view?usp=sharing">Meu Curriculo</a>
