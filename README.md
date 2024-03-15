@@ -1,5 +1,5 @@
 ###  Hello World! Meu nome é Allan Antonio👋
-a
+
 ### Minha paixão é traduzir ideias em código, sempre em busca de novos desafios para conquistar. Com uma xícara de café ao lado, vamos codificar o futuro,! 💡💪
 
 <a href="https://drive.google.com/file/d/12DB80Dk_V_lRMfTg5CeqRaQ45eIPi50d/view?usp=sharing">Meu Curriculo</a>
